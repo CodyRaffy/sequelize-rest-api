@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-rest-api",
+  "version": "1.0.0",
+  "description": "Create Express REST API routes based on your sequelize models and specified options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sequelize",
+    "REST",
+    "API",
+    "express",
+    "node",
+    "middleware"
+  ],
+  "author": "Cody Raffensperger",
+  "license": "ISC"
+}
