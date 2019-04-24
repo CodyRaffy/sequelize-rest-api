@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-rest-api",
+  "name": "@codyraffy/sequelize-rest-api",
   "version": "0.1.0",
   "description": "Create Express REST API routes based on your sequelize models and specified options",
   "main": "dist/Index.js",
