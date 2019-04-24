@@ -1,6 +1,6 @@
 {
   "name": "sequelize-rest-api",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Create Express REST API routes based on your sequelize models and specified options",
   "main": "dist/Index.js",
   "types": "dist/Index.d.ts",
